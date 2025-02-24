@@ -16,8 +16,8 @@ FLOW_ID_API1 = "0287e3b8-2cca-4c53-b48e-80a75ca171cb"
 APPLICATION_TOKEN_API1 = st.secrets["APPLICATION_TOKEN_1"]  # Replace with your actual token
 ENDPOINT_API1 = "Macro"
 TWEAKS_API1 = {
-    "TextInput-hjvnW": {"input_value": ""},
-    "TextInput-0QPCj": {"input_value": ""},
+    "TextInput-hjvnW": {},
+    "TextInput-0QPCj": {},
     "Prompt-h7iA7": {},
     "TextOutput-4vQAa": {},
     "PerplexityModel-Jtf2S": {}
