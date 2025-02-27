@@ -22,7 +22,7 @@ You can view the live app here: [Workout & Diet Design App] (https://aeuo9ajlc93
 #Install dependencies:
 pip install -r requirements.txt  
 
-#📌 Tech Stack
+# 📌 Tech Stack
 Python
 Streamlit
 Langflow API
@@ -32,7 +32,7 @@ OpenAI (for advanced recommendations)
 ![Screenshot 2025-02-27 105428](https://github.com/user-attachments/assets/7d6f4145-3c66-404d-9082-dc98ff4e356a)
 
 
-#💡 Future Enhancements
+# 💡 Future Enhancements
 Integration with wearable devices for real-time fitness tracking
 Meal plan generator based on available ingredients
 Progress tracking & analytics
