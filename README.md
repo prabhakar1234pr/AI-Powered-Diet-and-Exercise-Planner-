@@ -24,15 +24,23 @@ pip install -r requirements.txt
 
 # 📌 Tech Stack
 Python
+
 Streamlit
+
 Langflow API
+
 Datastax AstraDB
+
 OpenAI (for advanced recommendations)
-#📷 Screenshots
+
+# 📷 Screenshots
+
 ![Screenshot 2025-02-27 105428](https://github.com/user-attachments/assets/7d6f4145-3c66-404d-9082-dc98ff4e356a)
 
 
 # 💡 Future Enhancements
 Integration with wearable devices for real-time fitness tracking
+
 Meal plan generator based on available ingredients
+
 Progress tracking & analytics
